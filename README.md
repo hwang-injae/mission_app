@@ -1,4 +1,5 @@
-# README.md 남 컴퓨터
+# README.md 내 컴퓨터와 남 컴퓨터
+# ME: TurtleBot Mission Lab
 # MATE: ROS Robot Mission Lab
 
 MATE는 ROS 기반 로봇 미션을 실험하는 가상 프로젝트입니다.  
